@@ -2,12 +2,7 @@
 
 Aplicación web:
 
-- Navbar de navegación.
-- Header con imagen de fondo.
-- Tarjetas de pizzas.
-- Información de ingredientes.
-- Precio de cada pizza.
-- Footer con derechos reservados.
+Formulario de registro
 
 Tecnologías utilizadas
 
@@ -27,6 +22,7 @@ src/
 │ ├── Cardpizza.jsx
 │ ├── Home.jsx
 │ └── Footer.jsx
+    Register.jsx
 │
 ├── assets/
 │ ├── hero.png
