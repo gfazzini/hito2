@@ -13,7 +13,6 @@ Tecnologías utilizadas
 - CSS
 
 Estructura de componentes
-
 src/
 │
 ├── componentes/
@@ -36,4 +35,4 @@ src/
 
 
 https://gfazzini.github.io/hito1/
-https://github.com/gfazzini/hito2
+https://gfazzini.github.io/hito2/ 
